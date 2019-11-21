@@ -1,0 +1,5 @@
+C:\Users\tn182848\Desktop\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Form1.resources
+C:\Users\tn182848\Desktop\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Properties.Resources.resources
+C:\Users\tn182848\Desktop\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.GenerateResource.cache
+C:\Users\tn182848\Desktop\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.CoreCompileInputs.cache

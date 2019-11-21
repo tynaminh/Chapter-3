@@ -1,0 +1,10 @@
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.Form1.resources
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.Properties.Resources.resources
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\bin\Debug\testInteractiveGUI.exe.config
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\bin\Debug\testInteractiveGUI.exe
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\bin\Debug\testInteractiveGUI.pdb
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.exe
+C:\Users\tn182848\source\repos\Chapter 3\testInteractiveGUI\testInteractiveGUI\obj\Debug\testInteractiveGUI.pdb
